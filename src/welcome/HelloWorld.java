@@ -13,6 +13,12 @@ public class HelloWorld {
 		for (int i=0; i<4; i++) {
 			System.out.println(a[i]) ;
 		}
+		
+		String [] cars = {"Benz","BMW","Toyota","Chervolet"};
+		
+		for (int i=0; i<4; i++) {
+			System.out.println(cars[i]);
+		}
 
 	}
 
