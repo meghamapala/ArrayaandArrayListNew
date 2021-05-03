@@ -19,6 +19,12 @@ public class HelloWorld {
 		for (int i=0; i<4; i++) {
 			System.out.println(cars[i]);
 		}
+		
+		String [] movies= {"GG","kk","LL","pp"};
+		
+		for (int i=0; i<4; i++) {
+			System.out.println(movies[i]);
+		}
 
 	}
 
